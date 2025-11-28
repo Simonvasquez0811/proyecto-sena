@@ -1,9 +1,9 @@
-# 🚗 OnWheels Rent - Plataforma de Alquiler de Vehículos
+#  OnWheels Rent - Plataforma de Alquiler de Vehículos
 Plataforma web full-stack para la gestión y alquiler de vehículos en Medellín, Colombia. Sistema centralizado donde un administrador controla completamente el inventario de vehículos y los usuarios pueden buscar, reservar y gestionar sus alquileres.
 
 ---
 
-## 📋 Tabla de Contenidos
+##  Tabla de Contenidos
 
 - [Características](#-características)
 - [Tecnologías](#-tecnologías)
@@ -18,9 +18,9 @@ Plataforma web full-stack para la gestión y alquiler de vehículos en Medellín
 
 ---
 
-## ✨ Características
+##  Características
 
-### 👥 Para Usuarios
+###  Para Usuarios
 - ✅ Registro e inicio de sesión seguro
 - ✅ Búsqueda avanzada de vehículos con múltiples filtros
 - ✅ Visualización detallada de vehículos con galería de imágenes
@@ -29,7 +29,7 @@ Plataforma web full-stack para la gestión y alquiler de vehículos en Medellín
 - ✅ Gestión de perfil personal
 - ✅ Notificaciones de estado de reservas
 
-### 🔐 Para Administradores
+###  Para Administradores
 - ✅ Panel de control con estadísticas en tiempo real
 - ✅ Gestión completa de vehículos (CRUD)
   - Crear vehículos con múltiples imágenes
@@ -52,7 +52,7 @@ Plataforma web full-stack para la gestión y alquiler de vehículos en Medellín
   - Tasa de ocupación
   - Actividad reciente
 
-### 🛡️ Seguridad
+###  Seguridad
 - ✅ Autenticación con JWT (tokens de 30 días)
 - ✅ Contraseñas encriptadas con bcrypt
 - ✅ Bloqueo automático tras 5 intentos fallidos (30 minutos)
@@ -62,7 +62,7 @@ Plataforma web full-stack para la gestión y alquiler de vehículos en Medellín
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 ### Backend
 - **Node.js** v14+ - Entorno de ejecución JavaScript
@@ -90,7 +90,7 @@ Plataforma web full-stack para la gestión y alquiler de vehículos en Medellín
 
 ---
 
-## 🏗️ Arquitectura
+##  Arquitectura
 
 El proyecto sigue una **arquitectura en capas (Layered Architecture)** con separación clara de responsabilidades:
 
@@ -188,7 +188,7 @@ El proyecto sigue una **arquitectura en capas (Layered Architecture)** con separ
 
 ---
 
-## 📦 Instalación
+##  Instalación
 
 ### Prerrequisitos
 - Node.js v14 o superior
@@ -256,7 +256,7 @@ VITE_ENV=development
 
 ---
 
-## 🚀 Uso
+##  Uso
 
 ### Iniciar Backend
 ```bash
@@ -304,7 +304,7 @@ Después de ejecutar `npm run test-data`:
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Autenticación (`/api/auth`)
 | Método | Endpoint | Descripción | Acceso |
@@ -361,7 +361,7 @@ Después de ejecutar `npm run test-data`:
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 onwheels-rent/
@@ -437,7 +437,7 @@ onwheels-rent/
 
 ---
 
-## 📸 Capturas de Pantalla
+##  Capturas de Pantalla
 
 ### Página de Inicio
 ![Home](imagenes/Home.png)
@@ -450,7 +450,7 @@ onwheels-rent/
 
 ---
 
-## 👥 Equipo
+##  Equipo
 
 **Proyecto Formativo SENA-CTMA**
 - **Ficha:** 3145939
@@ -469,7 +469,7 @@ onwheels-rent/
 
 
 
-## 🔮 Futuras Mejoras
+##  Futuras Mejoras
 
 - [ ] Pagos en linea simulados
 - [ ] Notificaciones por correo (Nodemailer)
@@ -478,8 +478,6 @@ onwheels-rent/
 ---
 
 <div align="center">
-
-**Desarrollado con ❤️ por el equipo OnWheels Rent**
 
 [![SENA](https://img.shields.io/badge/SENA-CTMA-orange?style=for-the-badge)](https://www.sena.edu.co/)
 [![License](https://img.shields.io/badge/License-Educational-blue?style=for-the-badge)](LICENSE)
