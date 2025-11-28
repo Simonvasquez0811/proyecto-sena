@@ -15,7 +15,6 @@ Plataforma web full-stack para la gestión y alquiler de vehículos en Medellín
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Capturas de Pantalla](#-capturas-de-pantalla)
 - [Equipo](#-equipo)
-- [Licencia](#-licencia)
 
 ---
 
@@ -462,9 +461,9 @@ onwheels-rent/
 
 | Nombre | Rol | GitHub |
 |--------|-----|--------|
-| **Simón Vásquez Escobar** | Líder & Desarrollador Full-Stack | [@simon](https://github.com) |
-| **Miguel Ángel Aguirre Moreno** | Analista & Tester | [@miguel](https://github.com) |
-| **Melissa Jasbleidy Sandoval** | Diseñadora UX/UI | [@melissa](https://github.com) |
+| **Simón Vásquez Escobar** | Líder & Desarrollador Full-Stack |
+| **Miguel Ángel Aguirre Moreno** | Analista & Tester | 
+| **Melissa Jasbleidy Sandoval** | Diseñadora UX/UI |
 
 ---
 
